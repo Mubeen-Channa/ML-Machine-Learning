@@ -25,10 +25,10 @@ print("Hello, Mubeen!")     # Output: Hello, Mubeen
 # Syntax:
     # Python uses indentation (spaces or tabs) to define code blocks instead of braces {}.
 
-    # ✅ Correct:
-    if True:
-        print("Indented properly")  # 4 spaces (recommended)
+# ✅ Correct:
+if True:
+    print("Indented properly")  # 4 spaces (recommended)
 
-    # ❌ Incorrect (IndentationError):
-    if True:
-        print("No indentation")         # Missing indentation
+# ❌ Incorrect (IndentationError):
+if True:
+    print("No indentation")         # Missing indentation
