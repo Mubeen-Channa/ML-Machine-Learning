@@ -43,3 +43,25 @@
     height = 5.6
     name = "Mubeen"
     print(age, height, name)
+
+
+# User input
+    user_name = input("\nEnter your name: ")
+    user_age = int(input("Enter your age: "))  # Converting input to integer
+
+    print("\nHello,", user_name)
+    print("Your age is:", user_age)
+
+
+# Basic operations
+    a = 10
+    b = 3
+
+    print("\nBasic operations:")
+    print("Sum:", a + b)
+    print("Difference:", a - b)
+    print("Product:", a * b)
+    print("Division:", a / b)
+    print("Integer Division:", a // b)
+    print("Modulus:", a % b)
+    print("Power:", a ** b)

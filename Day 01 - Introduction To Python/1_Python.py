@@ -15,7 +15,7 @@
     # Julia → Faster for numerical computing.
 
 
-# Versatile: Used in web development, data science, AI, automation, and more.
+# Versatile: Used in web development, data science, Scientific Calculation, AI, automation, and more.
 
 
 # Frist Program
@@ -31,4 +31,4 @@ print("Hello, Mubeen!")     # Output: Hello, Mubeen
 
     # ❌ Incorrect (IndentationError):
     if True:
-    print("No indentation")         # Missing indentation
+        print("No indentation")         # Missing indentation
