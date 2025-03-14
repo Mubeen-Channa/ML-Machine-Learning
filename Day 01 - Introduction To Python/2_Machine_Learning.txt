@@ -1,0 +1,16 @@
+
+    Introduction to ML:
+        Machine Learning (ML) is a branch of AI that enables computers to learn from data 
+        without being explicitly programmed. Instead of writing specific rules, ML models 
+        identify patterns and make predictions/Decisions.
+
+        
+            Core Concepts:
+            - Features:      The input variables (age, income).
+            - Labels:        The output variable ("Spam" or "Not Spam").
+            - Training Data: Data used to train the model.
+            - Testing Data:  Data used to evaluate the model's performance.
+            - Model:         The algorithm that makes predictions based on input data.
+            
+            Example: A model trained on housing prices might take features (size, location, number of rooms)
+                    and predict the label (price).

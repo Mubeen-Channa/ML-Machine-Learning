@@ -1,0 +1,16 @@
+
+    
+    Types of Machine Learning:
+
+        Machine Learning is categorized into three main types: 
+            1) Supervised     : Already Labeled (input and output given)
+            2) Unsupervised   : UnLabeled Data (outputs are not given)
+            3) Reinforcement  : Learn Itself by doing (	No predefined data, learns from environment)
+
+        
+        * Data Set should be large for Accuracy.
+
+
+        Supervised Learning    → Best for prediction tasks (when labeled data is available).
+        Unsupervised Learning  → Best for pattern recognition in large datasets.
+        Reinforcement Learning → Best for decision-making in dynamic environments.
